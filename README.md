@@ -25,7 +25,7 @@
     <ol>
         <li>Script içindeki <code>stream_url</code> değerini IP kameranızın URL'si ile değiştirin.</li>
         <li>Script'i Python 3 ile çalıştırın:</li>
-        <pre>python motion_sensor.py</pre>
+        <pre>python app.py</pre>
         <li>"IP Kamera Yayını" penceresindeki trackbar'ları kullanarak algılama alanını ve hassasiyeti ayarlayın:</li>
         <ul>
             <li><strong>X Merkezi:</strong> Algılama çemberinin merkezinin x koordinatını ayarlayın.</li>
