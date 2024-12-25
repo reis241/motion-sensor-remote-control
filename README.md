@@ -3,36 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hareket Sensörü Uzaktan Kontrol</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-            color: #333;
-        }
-        h1, h2 {
-            color: #0056b3;
-        }
-        code {
-            background: #f4f4f4;
-            padding: 2px 4px;
-            border-radius: 4px;
-            font-family: "Courier New", Courier, monospace;
-        }
-        pre {
-            background: #f4f4f4;
-            padding: 10px;
-            border-radius: 4px;
-            overflow-x: auto;
-        }
-        .note {
-            background: #ffffcc;
-            padding: 10px;
-            border-left: 6px solid #ffeb3b;
-            margin-bottom: 20px;
-        }
-    </style>
+
 </head>
 <body>
     <h1>Hareket Sensörü Uzaktan Kontrol</h1>
