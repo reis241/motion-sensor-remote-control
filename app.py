@@ -17,7 +17,7 @@ def nothing(x):
     pass
 
 # Telefon kamerası yayını (IP adresinizi girin)
-stream_url = "http://192.168.250.56:8080/video"
+stream_url = "<ip adresin ve port numaran (192.168.1.1:8080)>/video"
 cap = cv2.VideoCapture(stream_url)
 
 cv2.namedWindow("IP Kamera Yayını")
